@@ -1,9 +1,7 @@
 package org.codingchallenge;
 
 import org.testng.annotations.Test;
-
-import junit.framework.Assert;
-
+import org.testng.Assert;
 import org.testng.AssertJUnit;
 import org.testng.annotations.Test;
 import org.testng.AssertJUnit;
